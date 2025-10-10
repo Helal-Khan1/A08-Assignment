@@ -8,6 +8,7 @@ import { toast } from "react-toastify";
 
 const Installation = () => {
     const [apps, setapps] = useState([])
+    const [sortApps, setSortapps] = useState(`none`)
 
     useEffect(() => {
 
@@ -29,6 +30,17 @@ const Installation = () => {
 
     }
 
+    const sortItem = () => {
+
+        if (sortApps === 'downloads-asc') {
+            return [...apps].sort((a, b) => a.downloads - b.downloads);
+        } else if (sortApps === 'size-dsc') {
+            return [...apps].sort((a, b) => b.size - a.size)
+        } else {
+            return apps
+        }
+    }
+
 
     return (
         <div className=" container mx-auto">
@@ -37,11 +49,20 @@ const Installation = () => {
                 <p className="text-gray-400">Explore All Trending Apps on the Market developed by us</p>
             </div>
             <div className="flex justify-between"><h1>{apps.length} <span className="font-bold">Apps Found</span></h1>
-                <div> <input className="border-2" type="text" /></div>
+                <div>
+
+
+                    <select value={sortApps} onChange={e => setSortapps(e.target.value)}>
+                        <option value="none">Sort size</option>
+                        <option value="downloads-asc"> Low-&gt;High</option>
+                        <option value="size-dsc"> High-&gt;Low</option>
+                    </select>
+
+                </div>
             </div>
             <div className=" space-y-3 mt-10 mb-6">
                 {
-                    apps.map(apps => <div className="flex gap-3.5 bg-white justify-between">
+                    sortItem().map(apps => <div className="flex gap-3.5 bg-white justify-between">
 
                         <div className="flex gap-3">
 
