@@ -43,13 +43,13 @@ const Installation = () => {
 
 
     return (
-        <div className=" container mx-auto">
+        <div className=" container mx-auto p-4">
             <div className="text-center mt-10 mb-9   ">
                 <h1 className="text-3xl font-bold">Your Installed Apps</h1>
                 <p className="text-gray-400">Explore All Trending Apps on the Market developed by us</p>
             </div>
-            <div className="flex justify-between"><h1>{apps.length} <span className="font-bold">Apps Found</span></h1>
-                <div>
+            <div className="flex justify-between  "><h1>{apps.length} <span className="font-bold">Apps Found</span></h1>
+                <div className="border-1 bg-green-300  p-1 shadow-2xl border-green-700 rounded-sm" >
 
 
                     <select value={sortApps} onChange={e => setSortapps(e.target.value)}>
