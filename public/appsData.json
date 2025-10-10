@@ -1,0 +1,662 @@
+[
+    {
+        "image": "https://i.ibb.co.com/ymC80gmV/download-3.jpg",
+        "title": "Instagram",
+        "companyName": "Meta Platforms, Inc.",
+        "id": 1,
+        "description": "Instagram is a social platform  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatum labore odio odit sit iusto dolorem alias minus! Repudiandae, ipsam facere. Earum officiis nisi quasi dolorem veritatis! Fugit quisquam laudantium iurefor sharing photos, videos, stories, and reels with friends and followers worldwide.",
+        "size": 150.8,
+        "reviews": 165000000,
+        "ratingAvg": 3.9,
+        "downloads": "5M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 16500000
+            },
+            {
+                "name": "2 star",
+                "count": 8250000
+            },
+            {
+                "name": "3 star",
+                "count": 24750000
+            },
+            {
+                "name": "4 star",
+                "count": 49500000
+            },
+            {
+                "name": "5 star",
+                "count": 33000000
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/cKxq08bP/download-2.jpg",
+        "title": "WhatsApp Messenger",
+        "companyName": "Meta Platforms, Inc.",
+        "id": 2,
+        "description": "WhatsApp Messenger is a  free app  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatum labore odio odit sit iusto dolorem alias minus! Repudiandae, ipsam facere. Earum officiis nisi quasi dolorem veritatis! Fugit quisquam laudantium iurefor secure messaging, voice calls, and video calls across platforms.",
+        "size": 120.4,
+        "reviews": 212000000,
+        "ratingAvg": 4.4,
+        "downloads": "17M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 10600000
+            },
+            {
+                "name": "2 star",
+                "count": 10600000
+            },
+            {
+                "name": "3 star",
+                "count": 31800000
+            },
+            {
+                "name": "4 star",
+                "count": 63700000
+            },
+            {
+                "name": "5 star",
+                "count": 106000000
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/QFCkBVzw/download-5.png",
+        "title": "Facebook",
+        "companyName": "Meta Platforms, Inc.",
+        "id": 3,
+        "description": "Facebook helps you connect with Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatum labore odio odit sit iusto dolorem alias minus! Repudiandae, ipsam facere. Earum officiis nisi quasi dolorem veritatis! Fugit quisquam laudantium iure friends, family, and the world through posts, stories, and groups.",
+        "size": 180.2,
+        "reviews": 174000000,
+        "ratingAvg": 4.5,
+        "downloads": "4.4",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 8700000
+            },
+            {
+                "name": "2 star",
+                "count": 8700000
+            },
+            {
+                "name": "3 star",
+                "count": 26100000
+            },
+            {
+                "name": "4 star",
+                "count": 52200000
+            },
+            {
+                "name": "5 star",
+                "count": 87000000
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/Gg7HY9Q/download-4.png",
+        "title": "YouTube",
+        "companyName": "Google LLC",
+        "id": 4,
+        "description": "YouTube allows users to watch, Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatum labore odio odit sit iusto dolorem alias minus! Repudiandae, ipsam facere. Earum officiis nisi quasi dolorem veritatis! Fugit quisquam laudantium iure share, and create videos on a vast platform of content.",
+        "size": 140.6,
+        "reviews": 166000000,
+        "ratingAvg": 3.9,
+        "downloads": "10M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 16600000
+            },
+            {
+                "name": "2 star",
+                "count": 8300000
+            },
+            {
+                "name": "3 star",
+                "count": 24900000
+            },
+            {
+                "name": "4 star",
+                "count": 49800000
+            },
+            {
+                "name": "5 star",
+                "count": 33200000
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/XxyHPPXr/download-3.png",
+        "title": "Snapchat",
+        "companyName": "Snap Inc.",
+        "id": 5,
+        "description": "Snapchat lets users share Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatum labore odio odit sit iusto dolorem alias minus! Repudiandae, ipsam facere. Earum officiis nisi quasi dolorem veritatis! Fugit quisquam laudantium iure temporary photos, videos, and stories with fun filters and lenses.",
+        "size": 130.5,
+        "reviews": 38500000,
+        "ratingAvg": 4.1,
+        "downloads": "3M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 3850000
+            },
+            {
+                "name": "2 star",
+                "count": 1925000
+            },
+            {
+                "name": "3 star",
+                "count": 5775000
+            },
+            {
+                "name": "4 star",
+                "count": 11550000
+            },
+            {
+                "name": "5 star",
+                "count": 7700000
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/wN8K7Qqp/download-1.jpg",
+        "title": "Spotify: Music and Podcasts",
+        "companyName": "Spotify AB",
+        "id": 6,
+        "description": "Spotify offers music streaming,Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatum labore odio odit sit iusto dolorem alias minus! Repudiandae, ipsam facere. Earum officiis nisi quasi dolorem veritatis! Fugit quisquam laudantium iure podcasts, and personalized recommendations for listeners.",
+        "size": 110.3,
+        "reviews": 5000000,
+        "ratingAvg": 4.7,
+        "downloads": "5M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 100000
+            },
+            {
+                "name": "2 star",
+                "count": 150000
+            },
+            {
+                "name": "3 star",
+                "count": 450000
+            },
+            {
+                "name": "4 star",
+                "count": 1000000
+            },
+            {
+                "name": "5 star",
+                "count": 3300000
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/4w1vbrFW/download-2.png",
+        "title": "Netflix",
+        "companyName": "Netflix, Inc.",
+        "id": 7,
+        "description": "Netflix is a streaming Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatum labore odio odit sit iusto dolorem alias minus! Repudiandae, ipsam facere. Earum officiis nisi quasi dolorem veritatis! Fugit quisquam laudantium iure service for watching movies, TV series, and documentaries on demand.",
+        "size": 160.7,
+        "reviews": "9M",
+        "ratingAvg": 4.8,
+        "downloads": "10M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 200000
+            },
+            {
+                "name": "2 star",
+                "count": 300000
+            },
+            {
+                "name": "3 star",
+                "count": 800000
+            },
+            {
+                "name": "4 star",
+                "count": 2000000
+            },
+            {
+                "name": "5 star",
+                "count": 6700000
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/CjTBdnK/download.jpg",
+        "title": "Amazon Shopping",
+        "companyName": "AMZN Mobile LLC",
+        "id": 8,
+        "description": "Amazon Shopping app lets Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatum labore odio odit sit iusto dolorem alias minus! Repudiandae, ipsam facere. Earum officiis nisi quasi dolorem veritatis! Fugit quisquam laudantium iure users browse, shop, and track orders from millions of products.",
+        "size": 170.1,
+        "reviews": 8000000,
+        "ratingAvg": 4.6,
+        "downloads": "100M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 160000
+            },
+            {
+                "name": "2 star",
+                "count": 240000
+            },
+            {
+                "name": "3 star",
+                "count": 720000
+            },
+            {
+                "name": "4 star",
+                "count": 1440000
+            },
+            {
+                "name": "5 star",
+                "count": 5760000
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/JjWVSPLZ/google-maps-1797882-1280.webp",
+        "title": "Google Maps",
+        "companyName": "Google LLC",
+        "id": 9,
+        "description": "Google Maps offers real-time navigation, traffic updates, Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatum labore odio odit sit iusto dolorem alias minus! Repudiandae, ipsam facere. Earum officiis nisi quasi dolorem veritatis! Fugit quisquam laudantium iure and exploration of places worldwide.",
+        "size": 145.9,
+        "reviews": 12000000,
+        "ratingAvg": 4.5,
+        "downloads": "3M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 600000
+            },
+            {
+                "name": "2 star",
+                "count": 600000
+            },
+            {
+                "name": "3 star",
+                "count": 1800000
+            },
+            {
+                "name": "4 star",
+                "count": 3600000
+            },
+            {
+                "name": "5 star",
+                "count": 6000000
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/m5wY221p/sl-z-072523-61700-01.jpg",
+        "title": "X",
+        "companyName": "X Corp",
+        "id": 10,
+        "description": "X is a social network for sharing updates, Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatum labore odio odit sit iusto dolorem alias minus! Repudiandae, ipsam facere. Earum officiis nisi quasi dolorem veritatis! Fugit quisquam laudantium iure news, and conversations in real time.",
+        "size": 125.0,
+        "reviews": 5000000,
+        "ratingAvg": 4.2,
+        "downloads": "4M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 500000
+            },
+            {
+                "name": "2 star",
+                "count": 250000
+            },
+            {
+                "name": "3 star",
+                "count": 750000
+            },
+            {
+                "name": "4 star",
+                "count": 1500000
+            },
+            {
+                "name": "5 star",
+                "count": 2500000
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/4wmHNbQQ/download.png",
+        "title": "Telegram",
+        "companyName": "Telegram FZ-LLC",
+        "id": 11,
+        "description": "Telegram is a fast, secure messaging app with channels, groups, and file sharing features.",
+        "size": 95.2,
+        "reviews": 25000000,
+        "ratingAvg": 4.3,
+        "downloads": "1M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 1250000
+            },
+            {
+                "name": "2 star",
+                "count": 1250000
+            },
+            {
+                "name": "3 star",
+                "count": 3750000
+            },
+            {
+                "name": "4 star",
+                "count": 7500000
+            },
+            {
+                "name": "5 star",
+                "count": 12500000
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/ZzSFyzXY/download.png",
+        "title": "Pinterest",
+        "companyName": "Pinterest, Inc.",
+        "id": 12,
+        "description": "Pinterest helps users discover ideas, save pins, and plan projects through visual boards.",
+        "size": 135.7,
+        "reviews": 8000000,
+        "ratingAvg": 4.4,
+        "downloads": "2M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 160000
+            },
+            {
+                "name": "2 star",
+                "count": 240000
+            },
+            {
+                "name": "3 star",
+                "count": 720000
+            },
+            {
+                "name": "4 star",
+                "count": 1440000
+            },
+            {
+                "name": "5 star",
+                "count": 5760000
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/RGFRcg4Z/download.png",
+        "title": "LinkedIn",
+        "companyName": "LinkedIn Corporation",
+        "id": 13,
+        "description": "LinkedIn is a professional network for job searching, networking, and career development.",
+        "size": 155.4,
+        "reviews": 5000000,
+        "ratingAvg": 4.1,
+        "downloads": "6M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 500000
+            },
+            {
+                "name": "2 star",
+                "count": 250000
+            },
+            {
+                "name": "3 star",
+                "count": 750000
+            },
+            {
+                "name": "4 star",
+                "count": 1500000
+            },
+            {
+                "name": "5 star",
+                "count": 2500000
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/k6676wf6/download.jpg",
+        "title": "Uber - Request a ride",
+        "companyName": "Uber Technologies, Inc.",
+        "id": 14,
+        "description": "Uber provides on-demand rides, food delivery, and bike/scooter sharing services.",
+        "size": 165.1,
+        "reviews": 10000000,
+        "ratingAvg": 4.6,
+        "downloads": "17M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 200000
+            },
+            {
+                "name": "2 star",
+                "count": 300000
+            },
+            {
+                "name": "3 star",
+                "count": 800000
+            },
+            {
+                "name": "4 star",
+                "count": 2000000
+            },
+            {
+                "name": "5 star",
+                "count": 6700000
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/XkyJ10qy/download-4.jpg",
+        "title": "Shazam",
+        "companyName": "Apple",
+        "id": 15,
+        "description": "Shazam identifies songs, artists, and lyrics instantly from music playing around you.",
+        "size": 75.8,
+        "reviews": 2000000,
+        "ratingAvg": 4.7,
+        "downloads": "20M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 40000
+            },
+            {
+                "name": "2 star",
+                "count": 60000
+            },
+            {
+                "name": "3 star",
+                "count": 160000
+            },
+            {
+                "name": "4 star",
+                "count": 400000
+            },
+            {
+                "name": "5 star",
+                "count": 1340000
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/FbfNr8gD/download-3.jpg",
+        "title": "Candy Crush Saga",
+        "companyName": "King",
+        "id": 16,
+        "description": "Candy Crush Saga is a match-3 puzzle game with colorful candies and challenging levels.",
+        "size": 185.3,
+        "reviews": 15000000,
+        "ratingAvg": 4.5,
+        "downloads": "20M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 750000
+            },
+            {
+                "name": "2 star",
+                "count": 750000
+            },
+            {
+                "name": "3 star",
+                "count": 2250000
+            },
+            {
+                "name": "4 star",
+                "count": 4500000
+            },
+            {
+                "name": "5 star",
+                "count": 7500000
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/tP3pktcS/download-2.jpg",
+        "title": "PUBG MOBILE",
+        "companyName": "Tencent Games",
+        "id": 17,
+        "description": "PUBG MOBILE is a battle royale shooter with intense multiplayer gameplay and survival challenges.",
+        "size": 210.6,
+        "reviews": 30000000,
+        "ratingAvg": 4.2,
+        "downloads": "7M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 3000000
+            },
+            {
+                "name": "2 star",
+                "count": 1500000
+            },
+            {
+                "name": "3 star",
+                "count": 4500000
+            },
+            {
+                "name": "4 star",
+                "count": 9000000
+            },
+            {
+                "name": "5 star",
+                "count": 12000000
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/HTQzCx40/download-1.jpg",
+        "title": "Zoom - One Platform to Connect",
+        "companyName": "Zoom Video Communications, Inc.",
+        "id": 18,
+        "description": "Zoom offers video conferencing, webinars, and chat for meetings and virtual events.",
+        "size": 140.9,
+        "reviews": 8000000,
+        "ratingAvg": 4.3,
+        "downloads": "15M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 800000
+            },
+            {
+                "name": "2 star",
+                "count": 400000
+            },
+            {
+                "name": "3 star",
+                "count": 1200000
+            },
+            {
+                "name": "4 star",
+                "count": 2400000
+            },
+            {
+                "name": "5 star",
+                "count": 4000000
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/dw1ccJdT/download-2.png",
+        "title": "Gmail",
+        "companyName": "Google LLC",
+        "id": 19,
+        "description": "Gmail is a secure email service with smart features for organization and productivity.",
+        "size": 105.2,
+        "reviews": 20000000,
+        "ratingAvg": 4.4,
+        "downloads": "5M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 1000000
+            },
+            {
+                "name": "2 star",
+                "count": 1000000
+            },
+            {
+                "name": "3 star",
+                "count": 3000000
+            },
+            {
+                "name": "4 star",
+                "count": 6000000
+            },
+            {
+                "name": "5 star",
+                "count": 10000000
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/h1WwtnRp/download.jpg",
+        "title": "Google Chrome",
+        "companyName": "Google LLC",
+        "id": 20,
+        "description": "Google Chrome is a fast, secure web browser with sync and privacy features across devices.",
+        "size": 120.5,
+        "reviews": 25000000,
+        "ratingAvg": 4.1,
+        "downloads": "10M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 2500000
+            },
+            {
+                "name": "2 star",
+                "count": 1250000
+            },
+            {
+                "name": "3 star",
+                "count": 3750000
+            },
+            {
+                "name": "4 star",
+                "count": 7500000
+            },
+            {
+                "name": "5 star",
+                "count": 10000000
+            }
+        ]
+    }
+]
