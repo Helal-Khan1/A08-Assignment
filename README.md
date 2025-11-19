@@ -40,7 +40,7 @@ This project uses the following major dependencies:
 - "tailwindcss": "^4.1.14"
 ## 🔗 Live & Relevant Links
 
-- 🚀 **Live Website:** [Click Here]https://lucky-hummingbird-2efca1.netlify.app/
+- 🚀 **Live Website:** [Click Here]https://frabjous-madeleine-b4e55a.netlify.app
 
 
   ## 💻 How to Run Locally
