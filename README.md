@@ -16,6 +16,22 @@ Show all apps and click Apps and Over View the specific app.
 
 - **Implement Installation**  
   - Users can  Uninstall the apps they Can sort by file size.
+ 
+  ## 📦 Project Dependencies
+
+This project uses the following major dependencies:
+
+- **@tailwindcss/vite** — Tailwind CSS Vite integration  
+- **axios** — Promise-based HTTP client  
+
+
+- **react** — Core library for building the user interface  
+- **react-dom** — React DOM renderer  
+- **react-icons** — Popular icons for React  
+- **react-router** — Routing system for React  
+- **react-spinners** — Loading spinners for UI  
+- **react-toastify** — Toast notifications  
+- **tailwindcss** — Utility-first CSS framework
 
 
 
